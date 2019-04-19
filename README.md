@@ -1,6 +1,6 @@
 # Como definir o número de clusters para o seu KMeans
 
-Esse repositório contém todo o código de base para o blog post _"Como definir o número de clusters para o seu KMeans"_.
+Esse repositório contém todo o código de base para o blog post [_"Como definir o número de clusters para o seu KMeans"_](https://medium.com/pizzadedados/kmeans-e-metodo-do-cotovelo-94ded9fdf3a9).
 
 ## Organização deste repositório
 
